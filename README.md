@@ -1,2 +1,2 @@
 # Database-project_Beauty-Salon
-The project contains a database of a beauty salon in which data can be found about employees, their hierarchy, appointments made, clients, the location of the salons, the services offered and the history of the services performed.
+The code for creating the entire database can be found in the document, together with explanations showing the links between the tables, the conceptual diagram and many exercises based on these data in which commands such as CREATE, ALTER, DROP, INSERT, UPDATE, DELETE, junctions, group functions, single-row functions, virtual tables, indexes, synonyms and sequences.
